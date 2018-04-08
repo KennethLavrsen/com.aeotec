@@ -4,6 +4,9 @@ This app adds support for Aeotec devices in Homey.
 
 ### Changelog:
 
+**1.6.6**
+* Added support for ZW120 - Door Window Sensor Gen5
+
 **1.6.5**
 * Fixed support for DSB45
 
